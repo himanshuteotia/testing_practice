@@ -1,0 +1,25 @@
+{
+  "name": "testing_practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/himanshuteotia/testing_practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/himanshuteotia/testing_practice/issues"
+  },
+  "homepage": "https://github.com/himanshuteotia/testing_practice#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "chai-as-promised": "^7.1.1",
+    "mocha": "^6.0.2",
+    "sinon": "^7.2.6"
+  }
+}
